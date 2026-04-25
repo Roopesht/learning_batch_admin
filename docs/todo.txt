@@ -1,0 +1,4 @@
+- Add src, docs folders
+- Add requirements
+- Add venv
+- Run pip3 install -r requirements

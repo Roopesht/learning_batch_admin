@@ -1,0 +1,5 @@
+[
+  {"batch": "Batch-1", "type": "assignments", "channelid": 111111111111111111},
+  {"batch": "Batch-2", "type": "sessions", "channelid": 222222222222222222},
+  {"batch": "Batch-3", "type": "general-discussion", "channelid": 333333333333333333}
+]

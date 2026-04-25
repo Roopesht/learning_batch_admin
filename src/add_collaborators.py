@@ -108,9 +108,9 @@ def main():
     
     # Example usage - replace with your actual values
     repo_owner = "roopesht"
-    repo_name = "b4_project_1"
+    repo_name =  "learning.ojasamirai.com" #"people-knowledge-graph"
     github_usernames = [
-        "yashwanth9619", "sharon220596", "AishwaryaShetti", "Panendar"
+        "yashwanth9619"
     ]
     
     # Add collaborators

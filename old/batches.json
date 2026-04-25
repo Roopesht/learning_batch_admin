@@ -1,0 +1,8 @@
+[
+  {"batch": "Batch-1", "type": "assignments", "channelid": 1405161513202880603},
+  {"batch": "Batch-1", "type": "sessions", "channelid": 1407226168633065562},
+  {"batch": "Batch-1", "type": "general-discussion", "channelid": 1407386841308725271},
+  {"batch": "Batch-2", "type": "assignments", "channelid": 1408042131213516880},
+  {"batch": "Batch-2", "type": "sessions", "channelid": 1408041942503260210},
+  {"batch": "Batch-2", "type": "general-discussion", "channelid": 1408042020882354317}
+]
